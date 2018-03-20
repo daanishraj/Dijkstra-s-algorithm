@@ -13,6 +13,7 @@ From Wayfair’s business perspective,when a customer makes a purchase, we would
 
 
 ****Implementing Dijkstra’s algorithm
+
 In this short project, we implement Dijkstra’s algorithm. We have been provided with data and some code for a GUI, which generates a map of cities in the US and the different connections between them. Our goal is to compute for the user, the shortest path between any two cities they select on the map.
 
 
