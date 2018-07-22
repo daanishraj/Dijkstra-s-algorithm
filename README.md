@@ -7,8 +7,6 @@ Dijkstra’s algorithm helps us find the shortest path between a source node and
 
 The algorithm is ubiquitous. For example, it is used in computer networking where it ascertains the shortest path between the source router and other routers in the network. Also, each time we are navigating via google maps, complex algorithms based on Dijkstra are being used to provide us with the best route. 
 
-From Wayfair’s business perspective,when a customer makes a purchase, we would want to know the shortest route between the customer’s address and our various warehouses to ensure efficient, economical delivery. In reality, we might use an external delivery vendor or a third party API for this service or computation. However, if we wanted, Dijkstra could help us solve this problem independently.
-
 
 ****Implementing Dijkstra’s algorithm
 
